@@ -2,7 +2,7 @@ import { ProductType } from "../shared/types";
 import jacket from "../../assets/arsenal-removebg-preview.png";
 import predator from "../../assets/predator-removebg-preview.png";
 import puma from "../../assets/puma-removebg-preview.png";
-import speed from "../../assets/speed.jpeg";
+import speed from "../../assets/adiddasLogo.png";
 import manCity from "../../assets/man-city-removebg-preview.png";
 import trainer from "../../assets/trainer-removebg-preview.png";
 import tennis from "../../assets/basket-removebg-preview.png";
